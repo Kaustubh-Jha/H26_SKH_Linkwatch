@@ -8,7 +8,7 @@ An intelligent developer tool designed to perform repository dependency analysis
 * **Access Method:** Direct REST API execution via hosted API endpoint.
 * **Usage:** Gemma 4 acts as the core reasoning engine in the backend (`analyzer.py`) to dynamically inspect dependencies, evaluate migration risks, propose modern replacement packages, and outline step-by-step migration plans.
 
-🌐 **Live Application:** [https://linkwatch-six.vercel.app/](https://linkwatch-six.vercel.app/)
+🌐 **Live Application:** https://linkwatch-six.vercel.app/?apiKey=AQ.Ab8RN6I-jiXfWC5tU58JBmmj6mgW-bk_fQU81YMFkkO4jRd7Aw
 
 ---
 
