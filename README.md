@@ -1,4 +1,4 @@
-# LinkWatch / DEPEX (Dependency Exit Capsule Generator)
+# LinkWatch (Dependency Exit Capsule Generator)
 
 An intelligent developer tool designed to perform repository dependency analysis, track upgrade risks, process analysis with AI endpoints, and generate a structured **Dependency Exit Capsule**.
 
